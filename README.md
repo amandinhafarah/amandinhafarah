@@ -2,6 +2,8 @@
 
 I’m Amanda, a front-end developer at the beginning of my journey, focused on building modern, responsive, and user-friendly interfaces. I’m currently improving my skills in HTML, CSS, JavaScript, and React, while creating projects that strengthen both my technical knowledge and problem-solving abilities.
 
+My main interest is becoming a full-stack developer in the future, but right now I’m focused on growing in web development, especially on the front-end side, building a solid foundation before expanding into back-end technologies.
+
 I enjoy transforming ideas into clean and interactive web experiences, always paying attention to design, responsiveness, and code organization. My GitHub showcases my progress through practical projects, experiments, and continuous learning as I grow in front-end development.
 
 I’m looking for opportunities to collaborate, learn from experienced developers, and contribute to real-world projects while evolving as a developer.
